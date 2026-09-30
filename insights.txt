@@ -1,0 +1,34 @@
+TASK 4 - SENTIMENT ANALYSIS INSIGHTS
+
+Dataset:
+Amazon customer reviews
+
+Sample Size:
+5,000 reviews were initially loaded.
+After removing empty and duplicate reviews, 4,679 reviews were analyzed.
+
+SENTIMENT INSIGHTS:
+
+1. Positive sentiment was the most common category with 4,065 reviews.
+
+2. Neutral sentiment was found in 366 reviews.
+
+3. Negative sentiment was found in 248 reviews.
+
+4. The sentiment analysis shows that positive reviews were much more common than neutral and negative reviews in the analyzed sample.
+
+EMOTION INSIGHTS:
+
+1. Joy was the most frequently detected emotion with 2,122 occurrences.
+
+2. Trust was the second most frequently detected emotion with 630 occurrences.
+
+3. Anticipation was detected 177 times.
+
+4. Fear, sadness, surprise, disgust, and anger occurred less frequently in comparison.
+
+5. The emotion chart shows that Joy and Trust were the most frequently detected emotions in the analyzed customer reviews.
+
+CONCLUSION:
+
+The analysis shows that the selected Amazon customer reviews contain mostly positive sentiment. Joy and Trust were the most frequently detected specific emotions. Sentiment analysis and emotion detection can help understand customer opinions and identify common emotional patterns in reviews.

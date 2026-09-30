@@ -1,41 +1,43 @@
-# Task 3 – Data Visualization
+# Task 4 - Sentiment Analysis
 
-## CodeAlpha Data Analytics Internship
+## Project Overview
+This project performs sentiment and emotion analysis on Amazon customer reviews.
 
-### Objective
-To analyze an e-commerce customer dataset and create meaningful visualizations using Python.
+## Dataset
+Amazon customer reviews dataset.
 
-### Dataset
-- Number of records: 500
-- Number of columns: 9
+A sample of 5,000 reviews was analyzed. After removing empty and duplicate reviews, 4,679 reviews were used for analysis.
 
-### Tools and Libraries
+## Technologies Used
 - Python
 - Pandas
+- TextBlob
 - Matplotlib
-- Seaborn
+- Regular Expressions (re)
+- VS Code
 
-### Visualizations Created
-1. Total Sales by Product Category
-2. Top 10 Cities by Number of Orders
-3. Customer Age Distribution
-4. Product Price vs Quantity
-5. Customer Rating Distribution
-6. Monthly Sales Trend
-7. Correlation Heatmap
+## Analysis Performed
+1. Loaded and cleaned customer reviews.
+2. Removed empty and duplicate reviews.
+3. Classified reviews as Positive, Negative, or Neutral.
+4. Detected specific emotions such as Joy, Trust, Fear, Anger, Sadness, Surprise, Anticipation, and Disgust.
+5. Created an emotion distribution visualization.
+6. Generated insights from the analysis.
 
-### Key Insights
-- Electronics has the highest total sales among the product categories.
-- Ahmedabad has the highest number of orders among the cities shown.
-- Customers are distributed across a wide range of age groups.
-- Product price and quantity do not show a clear relationship.
-- Customer ratings are distributed across approximately 2.5 to 5.0.
-- Monthly sales fluctuate throughout the year.
-- Product Price has a strong positive correlation with Total Sales (0.87).
-- Quantity has a moderate positive correlation with Total Sales (0.31).
+## Sentiment Results
+- Positive: 4,065
+- Neutral: 366
+- Negative: 248
 
-### Project Files
-- `Data_Visualization.py` – Python visualization code
-- `ecommerce_customer_analysis_clean.csv` – Dataset
-- `Insights.txt` – Analysis insights
-- `visualizations/` – Generated graphs
+## Emotion Results
+- Joy: 2,122
+- Trust: 630
+- Anticipation: 177
+- Fear: 67
+- Sadness: 65
+- Surprise: 56
+- Disgust: 45
+- Anger: 42
+
+## Conclusion
+The analysis shows that the selected customer reviews contain mostly positive sentiment. Joy and Trust were the most frequently detected emotions.
