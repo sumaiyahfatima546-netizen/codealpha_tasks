@@ -1,0 +1,501 @@
+Order_ID,Customer_Age,Gender,City,Product_Category,Product_Price,Quantity,Rating,Order_Date
+ORD1001,40,Male,Pune,Electronics,32770.59,4,4.1,2025-09-10
+ORD1002,29,Female,Hyderabad,Books,1748.23,4,3.0,2025-07-14
+ORD1003,27,Female,Kolkata,Beauty,1897.5,5,4.7,2025-12-30
+ORD1004,31,Female,Hyderabad,Home & Kitchen,3274.94,5,4.5,2025-10-08
+ORD1005,43,Male,Hyderabad,Home & Kitchen,3145.28,4,3.4,2025-01-07
+ORD1006,28,Female,Hyderabad,Sports,6044.31,2,3.9,2025-05-18
+ORD1007,57,Female,Delhi,Electronics,40920.15,3,2.9,2025-04-16
+ORD1008,38,Female,Chennai,Books,300.03,3,4.9,2025-08-02
+ORD1009,55,Male,Delhi,Clothing,612.83,4,4.8,2025-04-07
+ORD1010,47,Male,Hyderabad,Electronics,29924.47,5,4.8,2025-12-18
+ORD1011,32,Female,Bengaluru,Beauty,712.77,2,3.3,2025-07-10
+ORD1012,27,Female,Kolkata,Sports,6649.91,3,2.9,2025-02-14
+ORD1013,49,Female,Ahmedabad,Books,689.64,1,3.0,2025-11-28
+ORD1014,32,Male,Kolkata,Books,373.36,4,2.7,2025-11-28
+ORD1015,28,Male,Hyderabad,Books,1849.84,3,2.8,2025-10-16
+ORD1016,58,Female,Kolkata,Books,414.51,3,2.7,2025-05-08
+ORD1017,38,Female,Pune,Beauty,1246.17,3,5.0,2025-01-22
+ORD1018,20,Male,Chennai,Electronics,8103.86,2,2.7,2025-09-16
+ORD1019,39,Male,Bengaluru,Sports,1189.27,3,2.8,2025-06-06
+ORD1020,37,Female,Ahmedabad,Home & Kitchen,645.32,4,4.6,2025-12-27
+ORD1021,55,Female,Delhi,Beauty,363.27,2,4.0,2025-09-12
+ORD1022,48,Male,Hyderabad,Home & Kitchen,2425.84,1,4.4,2025-07-16
+ORD1023,26,Male,Bengaluru,Clothing,550.9,2,4.1,2025-12-26
+ORD1024,24,Male,Delhi,Sports,4851.81,1,4.7,2025-10-19
+ORD1025,43,Female,Hyderabad,Books,1393.36,2,4.1,2025-01-07
+ORD1026,20,Female,Mumbai,Beauty,1665.48,4,3.8,2025-02-03
+ORD1027,31,Male,Delhi,Home & Kitchen,4088.7,1,4.3,2025-06-11
+ORD1028,23,Male,Ahmedabad,Books,1058.6,4,3.6,2025-07-24
+ORD1029,18,Male,Hyderabad,Beauty,3518.77,2,3.4,2025-01-11
+ORD1030,57,Female,Chennai,Home & Kitchen,10273.13,5,3.7,2025-02-16
+ORD1031,21,Male,Ahmedabad,Home & Kitchen,904.31,4,2.9,2025-09-14
+ORD1032,18,Female,Kolkata,Clothing,1153.04,2,4.5,2025-10-01
+ORD1033,58,Female,Ahmedabad,Electronics,12218.87,3,3.2,2025-01-11
+ORD1034,26,Male,Bengaluru,Beauty,1110.14,1,2.9,2025-07-04
+ORD1035,53,Male,Kolkata,Sports,4698.49,1,3.1,2025-01-30
+ORD1036,19,Male,Ahmedabad,Electronics,21104.99,5,4.6,2025-09-21
+ORD1037,24,Male,Mumbai,Sports,679.26,5,3.3,2025-10-31
+ORD1038,22,Female,Delhi,Books,809.87,1,4.2,2025-11-13
+ORD1039,48,Male,Chennai,Clothing,2761.64,2,4.6,2025-08-06
+ORD1040,44,Female,Delhi,Beauty,541.44,1,2.7,2025-08-17
+ORD1041,38,Female,Mumbai,Electronics,41756.2,2,4.4,2025-12-04
+ORD1042,28,Male,Ahmedabad,Books,198.73,2,3.3,2025-08-11
+ORD1043,21,Male,Ahmedabad,Books,1857.2,2,3.0,2025-06-12
+ORD1044,42,Male,Delhi,Home & Kitchen,1549.71,3,4.2,2025-10-02
+ORD1045,27,Female,Kolkata,Electronics,42256.96,1,4.8,2025-08-04
+ORD1046,43,Male,Delhi,Sports,7250.43,5,3.2,2025-11-03
+ORD1047,47,Female,Kolkata,Home & Kitchen,11763.02,4,3.9,2025-07-10
+ORD1048,54,Male,Chennai,Sports,6475.6,4,3.2,2025-11-13
+ORD1049,39,Male,Delhi,Books,1581.01,1,3.9,2025-01-17
+ORD1050,18,Male,Bengaluru,Books,1320.72,4,4.1,2025-01-14
+ORD1051,30,Female,Pune,Books,1580.09,5,4.0,2025-02-06
+ORD1052,54,Female,Mumbai,Clothing,932.4,1,4.1,2025-07-22
+ORD1053,40,Female,Bengaluru,Home & Kitchen,6618.39,4,2.8,2025-09-16
+ORD1054,44,Male,Bengaluru,Home & Kitchen,6364.99,2,4.2,2025-03-20
+ORD1055,37,Male,Ahmedabad,Home & Kitchen,10347.84,4,4.2,2025-02-26
+ORD1056,24,Female,Hyderabad,Electronics,23408.57,3,4.2,2025-11-10
+ORD1057,56,Male,Kolkata,Beauty,1632.59,5,2.7,2025-10-01
+ORD1058,51,Male,Kolkata,Electronics,32158.38,1,3.6,2025-08-25
+ORD1059,60,Female,Hyderabad,Books,606.28,2,3.5,2025-06-27
+ORD1060,54,Female,Chennai,Books,365.56,2,2.7,2025-06-02
+ORD1061,30,Male,Chennai,Sports,3979.66,2,3.1,2025-01-08
+ORD1062,28,Male,Mumbai,Books,892.09,2,3.6,2025-03-10
+ORD1063,28,Female,Pune,Home & Kitchen,3097.81,2,4.4,2025-11-23
+ORD1064,57,Male,Delhi,Sports,3129.84,1,3.1,2025-05-04
+ORD1065,41,Male,Delhi,Home & Kitchen,4650.15,4,4.6,2025-09-14
+ORD1066,37,Male,Delhi,Clothing,1839.23,3,3.9,2025-09-14
+ORD1067,59,Male,Kolkata,Sports,3221.87,5,4.4,2025-04-23
+ORD1068,43,Male,Pune,Home & Kitchen,8354.62,4,3.7,2025-03-16
+ORD1069,57,Female,Delhi,Electronics,15195.39,1,3.7,2025-09-09
+ORD1070,60,Female,Ahmedabad,Home & Kitchen,11406.75,1,4.0,2025-02-04
+ORD1071,21,Female,Kolkata,Books,1841.06,3,4.8,2025-06-30
+ORD1072,33,Male,Ahmedabad,Clothing,2560.28,3,3.7,2025-11-20
+ORD1073,49,Female,Pune,Home & Kitchen,4208.99,2,3.8,2025-09-16
+ORD1074,52,Female,Delhi,Electronics,27004.02,4,4.0,2025-10-06
+ORD1075,24,Male,Kolkata,Books,1712.26,3,4.3,2025-01-31
+ORD1076,31,Female,Mumbai,Home & Kitchen,7970.01,4,2.7,2025-03-14
+ORD1077,41,Female,Mumbai,Clothing,4080.64,1,3.8,2025-04-11
+ORD1078,52,Female,Delhi,Clothing,2803.79,5,3.7,2025-04-17
+ORD1079,22,Female,Ahmedabad,Beauty,2586.73,2,4.8,2025-03-12
+ORD1080,43,Female,Chennai,Books,647.5,3,3.7,2025-12-20
+ORD1081,30,Male,Delhi,Sports,5958.68,3,3.7,2025-03-02
+ORD1082,27,Female,Delhi,Home & Kitchen,2747.89,5,4.9,2025-09-15
+ORD1083,40,Female,Mumbai,Electronics,34892.51,2,3.6,2025-08-02
+ORD1084,35,Male,Pune,Books,1735.37,2,3.0,2025-08-11
+ORD1085,45,Female,Mumbai,Beauty,658.6,2,3.0,2025-03-20
+ORD1086,31,Male,Chennai,Books,1267.32,2,2.7,2025-04-22
+ORD1087,53,Male,Mumbai,Electronics,5207.24,1,2.5,2025-08-09
+ORD1088,21,Male,Mumbai,Clothing,3710.86,1,3.6,2025-04-19
+ORD1089,55,Female,Ahmedabad,Books,260.54,2,4.4,2025-09-10
+ORD1090,19,Female,Mumbai,Books,1878.29,3,4.3,2025-01-15
+ORD1091,49,Male,Hyderabad,Home & Kitchen,1993.93,2,2.6,2025-01-27
+ORD1092,32,Female,Delhi,Books,1921.87,2,3.9,2025-09-23
+ORD1093,34,Male,Chennai,Sports,6466.81,4,2.9,2025-08-13
+ORD1094,18,Female,Hyderabad,Home & Kitchen,7286.71,2,4.9,2025-01-16
+ORD1095,48,Female,Mumbai,Sports,6326.21,5,2.9,2025-11-24
+ORD1096,25,Male,Bengaluru,Clothing,4037.04,4,4.1,2025-01-02
+ORD1097,46,Male,Chennai,Clothing,4746.33,1,3.3,2025-12-14
+ORD1098,49,Male,Pune,Books,581.43,2,4.1,2025-09-23
+ORD1099,54,Male,Ahmedabad,Beauty,2421.79,1,3.5,2025-12-26
+ORD1100,48,Female,Delhi,Electronics,5204.94,2,4.4,2025-12-12
+ORD1101,30,Male,Kolkata,Books,1270.71,2,3.1,2025-04-24
+ORD1102,49,Male,Bengaluru,Clothing,1105.07,1,4.8,2025-10-03
+ORD1103,53,Female,Kolkata,Books,1173.41,1,3.8,2025-03-18
+ORD1104,31,Female,Chennai,Electronics,28835.31,3,4.4,2025-06-21
+ORD1105,23,Male,Kolkata,Books,985.37,4,4.6,2025-03-29
+ORD1106,56,Female,Kolkata,Books,1093.0,2,5.0,2025-06-26
+ORD1107,24,Male,Chennai,Books,1551.45,5,3.1,2025-11-14
+ORD1108,43,Female,Mumbai,Beauty,3227.09,2,3.2,2025-06-08
+ORD1109,28,Female,Chennai,Home & Kitchen,6108.98,5,3.1,2025-02-03
+ORD1110,23,Female,Kolkata,Books,1239.23,2,3.2,2025-04-29
+ORD1111,51,Female,Ahmedabad,Clothing,4676.81,3,4.0,2025-10-14
+ORD1112,24,Male,Ahmedabad,Books,327.49,4,5.0,2025-07-09
+ORD1113,46,Male,Bengaluru,Beauty,600.85,1,5.0,2025-07-23
+ORD1114,47,Male,Chennai,Home & Kitchen,1417.42,5,3.8,2025-06-06
+ORD1115,20,Male,Hyderabad,Beauty,2682.77,2,4.1,2025-04-17
+ORD1116,25,Female,Pune,Beauty,1761.64,3,4.6,2025-08-06
+ORD1117,52,Male,Ahmedabad,Electronics,38828.91,4,4.8,2025-08-19
+ORD1118,39,Male,Hyderabad,Electronics,33725.95,4,3.0,2025-11-23
+ORD1119,23,Male,Pune,Clothing,1868.1,1,3.8,2025-08-13
+ORD1120,60,Male,Ahmedabad,Electronics,44969.14,5,4.6,2025-12-29
+ORD1121,29,Male,Kolkata,Home & Kitchen,9245.37,4,3.3,2025-10-28
+ORD1122,18,Male,Delhi,Books,614.02,5,3.6,2025-01-29
+ORD1123,57,Male,Hyderabad,Beauty,1552.14,3,5.0,2025-05-23
+ORD1124,18,Male,Ahmedabad,Home & Kitchen,4047.5,4,5.0,2025-05-21
+ORD1125,41,Male,Ahmedabad,Sports,1513.61,3,4.8,2025-01-02
+ORD1126,60,Female,Chennai,Beauty,718.97,5,4.5,2025-03-07
+ORD1127,42,Female,Ahmedabad,Electronics,46838.31,5,3.2,2025-10-05
+ORD1128,43,Male,Hyderabad,Books,932.02,5,3.3,2025-05-09
+ORD1129,34,Female,Chennai,Beauty,1625.78,3,3.9,2025-02-23
+ORD1130,23,Female,Hyderabad,Beauty,2959.29,4,3.9,2025-04-15
+ORD1131,42,Male,Ahmedabad,Beauty,2279.02,2,3.8,2025-04-10
+ORD1132,56,Male,Pune,Beauty,3754.14,3,4.1,2025-03-05
+ORD1133,21,Male,Ahmedabad,Electronics,39124.92,4,3.5,2025-02-06
+ORD1134,55,Female,Chennai,Beauty,1995.57,1,4.4,2025-10-06
+ORD1135,35,Female,Hyderabad,Books,815.08,4,3.3,2025-10-28
+ORD1136,41,Male,Hyderabad,Clothing,4937.17,1,3.3,2025-06-30
+ORD1137,25,Male,Mumbai,Beauty,2913.38,3,2.8,2025-08-13
+ORD1138,44,Female,Pune,Electronics,47584.14,3,3.0,2025-12-01
+ORD1139,25,Male,Bengaluru,Home & Kitchen,1774.35,3,,2025-11-03
+ORD1140,29,Female,Kolkata,Home & Kitchen,10266.19,3,3.6,2025-01-12
+ORD1141,49,Male,Bengaluru,Sports,5205.47,3,3.1,2025-12-13
+ORD1142,20,Male,Delhi,Clothing,873.03,3,4.4,2025-01-25
+ORD1143,37,Male,Bengaluru,Clothing,3064.81,3,3.9,2025-01-10
+ORD1144,43,Male,Delhi,Home & Kitchen,8358.72,3,2.6,2025-05-27
+ORD1145,23,Female,Delhi,Sports,394.73,4,3.3,2025-09-29
+ORD1146,30,Female,Hyderabad,Sports,3798.25,3,2.9,2025-01-30
+ORD1147,32,Female,Chennai,Electronics,41357.28,4,4.1,2025-04-17
+ORD1148,46,Male,Kolkata,Clothing,1688.19,5,3.2,2025-04-06
+ORD1149,59,Male,Ahmedabad,Books,971.24,5,2.7,2025-05-25
+ORD1150,53,Male,Mumbai,Electronics,22394.55,1,2.6,2025-12-25
+ORD1151,26,Female,Ahmedabad,Sports,2624.84,4,4.0,2025-05-01
+ORD1152,18,Female,Ahmedabad,Clothing,4616.68,2,2.6,2025-03-18
+ORD1153,20,Male,Ahmedabad,Sports,6315.96,1,4.6,2025-02-14
+ORD1154,43,Male,Mumbai,Clothing,819.77,4,2.9,2025-03-14
+ORD1155,24,Male,Kolkata,Home & Kitchen,11965.6,1,4.0,2025-02-18
+ORD1156,27,Female,Chennai,Beauty,3534.92,5,3.6,2025-07-28
+ORD1157,54,Female,Hyderabad,Electronics,14553.47,4,3.6,2025-06-03
+ORD1158,55,Male,Mumbai,Beauty,3372.05,5,2.7,2025-07-01
+ORD1159,54,Male,Pune,Beauty,559.72,4,4.5,2025-10-30
+ORD1160,28,Female,Bengaluru,Books,1998.3,5,4.7,2025-07-31
+ORD1161,44,Male,Delhi,Sports,5425.77,1,2.5,2025-02-26
+ORD1162,44,Female,Kolkata,Beauty,2652.98,5,2.9,2025-05-18
+ORD1163,25,Female,Bengaluru,Home & Kitchen,1449.11,1,4.8,2025-04-24
+ORD1164,41,Male,Delhi,Home & Kitchen,10805.59,2,3.9,2025-10-28
+ORD1165,40,Male,Bengaluru,Home & Kitchen,736.39,1,2.9,2025-04-22
+ORD1166,35,Male,Chennai,Books,557.57,3,3.0,2025-02-20
+ORD1167,50,Female,Bengaluru,Clothing,972.2,4,4.1,2025-09-25
+ORD1168,47,Male,Ahmedabad,Clothing,3950.81,2,4.3,2025-06-05
+ORD1169,40,Male,Hyderabad,Home & Kitchen,2699.17,5,4.0,2025-02-04
+ORD1170,49,Male,Ahmedabad,Electronics,45576.59,4,4.9,2025-09-09
+ORD1171,50,Female,Kolkata,Electronics,32985.32,4,3.7,2025-03-18
+ORD1172,42,Male,Kolkata,Electronics,2290.05,5,3.3,2025-11-13
+ORD1173,29,Male,Kolkata,Books,110.32,3,3.7,2025-10-31
+ORD1174,50,Male,Bengaluru,Books,198.15,2,3.4,2025-05-15
+ORD1175,48,Female,Ahmedabad,Books,1251.26,5,3.1,2025-07-22
+ORD1176,60,Male,Chennai,Home & Kitchen,9697.19,3,2.6,2025-07-26
+ORD1177,24,Female,Ahmedabad,Books,553.25,4,3.4,2025-08-26
+ORD1178,36,Female,Ahmedabad,Electronics,42545.74,2,4.3,2025-01-26
+ORD1179,57,Male,Chennai,Sports,740.69,2,2.5,2025-04-29
+ORD1180,40,Female,Mumbai,Beauty,3233.71,1,3.6,2025-03-03
+ORD1181,58,Male,Hyderabad,Sports,7444.02,2,4.1,2025-09-11
+ORD1182,18,Female,Hyderabad,Electronics,38719.37,1,4.0,2025-01-26
+ORD1183,19,Male,Delhi,Home & Kitchen,8498.2,4,4.4,2025-07-08
+ORD1184,52,Male,Kolkata,Books,1692.16,1,4.5,2025-09-22
+ORD1185,33,Male,Chennai,Home & Kitchen,865.76,4,4.3,2025-12-12
+ORD1186,40,Female,Delhi,Home & Kitchen,2740.67,5,2.8,2025-04-15
+ORD1187,36,Female,Bengaluru,Electronics,6683.72,4,3.7,2025-01-03
+ORD1188,35,Female,Chennai,Home & Kitchen,6252.56,3,4.0,2025-09-21
+ORD1189,58,Female,Pune,Clothing,3802.38,1,3.1,2025-01-01
+ORD1190,22,Male,Ahmedabad,Clothing,3261.06,5,2.6,2025-01-25
+ORD1191,51,Female,Pune,Books,1717.15,1,3.1,2025-12-27
+ORD1192,56,Female,Chennai,Beauty,747.57,4,3.6,2025-11-10
+ORD1193,46,Female,Ahmedabad,Beauty,2978.29,4,3.5,2025-09-15
+ORD1194,34,Female,Delhi,Home & Kitchen,2639.28,1,2.9,2025-11-01
+ORD1195,24,Male,Ahmedabad,Sports,2384.84,4,4.6,2025-01-28
+ORD1196,47,Male,Mumbai,Electronics,35640.28,1,4.8,2025-02-02
+ORD1197,38,Female,Bengaluru,Home & Kitchen,11770.38,2,3.0,2025-04-20
+ORD1198,24,Male,Delhi,Electronics,30771.41,5,4.8,2025-01-09
+ORD1199,33,Male,Bengaluru,Home & Kitchen,1032.2,5,2.5,2025-11-20
+ORD1200,59,Female,Hyderabad,Sports,5045.58,2,4.8,2025-01-21
+ORD1201,29,Female,Ahmedabad,Home & Kitchen,891.27,5,4.9,2025-07-18
+ORD1202,25,Female,Kolkata,Sports,7107.92,5,2.5,2025-11-07
+ORD1203,47,Female,Bengaluru,Home & Kitchen,8631.11,4,4.4,2025-09-25
+ORD1204,26,Female,Kolkata,Books,428.94,1,4.9,2025-03-27
+ORD1205,57,Female,Hyderabad,Home & Kitchen,1463.96,2,4.8,2025-06-21
+ORD1206,54,Male,Mumbai,Clothing,1162.61,4,4.9,2025-07-19
+ORD1207,60,Female,Pune,Books,1962.05,5,3.9,2025-10-07
+ORD1208,57,Male,Mumbai,Sports,3830.92,5,2.7,2025-06-05
+ORD1209,28,Female,Pune,Clothing,3985.18,3,4.6,2025-04-14
+ORD1210,27,Female,Kolkata,Books,1309.18,2,4.0,2025-10-17
+ORD1211,32,Male,Hyderabad,Clothing,2990.34,5,4.0,2025-11-19
+ORD1212,38,Male,Hyderabad,Books,375.75,2,3.5,2025-06-27
+ORD1213,55,Male,Ahmedabad,Books,1897.45,2,3.9,2025-01-11
+ORD1214,49,Female,Chennai,Home & Kitchen,3895.57,5,2.9,2025-07-02
+ORD1215,45,Female,Chennai,Books,1198.23,3,4.3,2025-11-20
+ORD1216,55,Female,Delhi,Clothing,3588.95,2,2.7,2025-12-27
+ORD1217,45,Female,Delhi,Electronics,32637.04,1,4.3,2025-05-26
+ORD1218,34,Male,Pune,Electronics,47059.42,3,4.6,2025-02-24
+ORD1219,35,Female,Chennai,Home & Kitchen,2121.89,5,3.7,2025-07-28
+ORD1220,40,Female,Bengaluru,Sports,4214.32,3,3.8,2025-10-30
+ORD1221,21,Male,Pune,Electronics,20499.7,4,3.3,2025-12-10
+ORD1222,49,Female,Pune,Home & Kitchen,5900.36,2,4.9,2025-01-19
+ORD1223,46,Female,Hyderabad,Books,326.51,4,4.3,2025-04-16
+ORD1224,49,Female,Delhi,Clothing,930.24,4,3.4,2025-06-23
+ORD1225,40,Female,Kolkata,Books,628.34,4,2.9,2025-02-05
+ORD1226,51,Male,Chennai,Clothing,1732.11,4,3.0,2025-11-19
+ORD1227,58,Male,Bengaluru,Books,913.02,3,3.7,2025-02-10
+ORD1228,42,Male,Hyderabad,Beauty,2502.3,2,4.9,2025-08-31
+ORD1229,37,Female,Chennai,Beauty,2593.32,4,4.3,2025-12-01
+ORD1230,22,Male,Delhi,Clothing,2235.51,5,3.0,2025-09-07
+ORD1231,51,Male,,Home & Kitchen,5141.88,5,4.6,2025-10-05
+ORD1232,56,Female,Chennai,Sports,1975.74,2,3.4,2025-04-06
+ORD1233,48,Male,Ahmedabad,Electronics,29621.16,4,4.6,2025-10-29
+ORD1234,55,Female,Bengaluru,Books,702.38,1,3.1,2025-06-02
+ORD1235,55,Male,Delhi,Home & Kitchen,818.29,3,4.0,2025-01-23
+ORD1236,52,Male,Bengaluru,Books,894.96,3,4.8,2025-05-14
+ORD1237,39,Female,Chennai,Beauty,1975.41,2,3.1,2025-05-08
+ORD1238,22,Female,Bengaluru,Home & Kitchen,3016.88,5,4.2,2025-07-09
+ORD1239,18,Female,Delhi,Clothing,2990.55,5,5.0,2025-04-07
+ORD1240,26,Male,Mumbai,Beauty,2328.22,1,2.9,2025-06-18
+ORD1241,36,Female,Bengaluru,Electronics,35249.11,2,2.7,2025-06-05
+ORD1242,49,Male,Hyderabad,Beauty,2644.6,2,4.2,2025-04-29
+ORD1243,37,Female,Chennai,Electronics,32795.44,5,3.3,2025-09-11
+ORD1244,18,Female,Ahmedabad,Beauty,1367.42,3,2.7,2025-04-22
+ORD1245,27,Male,Bengaluru,Beauty,3181.61,4,3.7,2025-10-06
+ORD1246,60,Male,Delhi,Electronics,27682.65,5,4.4,2025-04-02
+ORD1247,60,Male,Bengaluru,Books,919.69,4,,2025-11-11
+ORD1248,34,Female,Kolkata,Home & Kitchen,7661.74,1,3.3,2025-05-13
+ORD1249,52,Female,Delhi,Books,785.25,1,4.6,2025-01-15
+ORD1250,48,Female,Ahmedabad,Electronics,25880.59,2,3.8,2025-02-24
+ORD1251,58,Male,Bengaluru,Clothing,3762.52,2,4.6,2025-10-21
+ORD1252,56,Male,Hyderabad,Home & Kitchen,10682.27,4,3.6,2025-11-14
+ORD1253,45,Female,Chennai,Clothing,4628.97,1,4.9,2025-03-19
+ORD1254,34,Male,Pune,Clothing,2667.07,2,4.1,2025-08-08
+ORD1255,44,Female,Ahmedabad,Beauty,2153.06,2,2.8,2025-07-29
+ORD1256,31,Male,Kolkata,Electronics,40093.59,1,4.7,2025-02-18
+ORD1257,32,Male,Ahmedabad,Books,697.46,1,3.7,2025-06-14
+ORD1258,44,Male,Pune,Electronics,41950.43,1,2.9,2025-09-10
+ORD1259,42,Female,Mumbai,Clothing,2622.47,3,2.9,2025-12-19
+ORD1260,42,Male,Delhi,Beauty,596.05,3,4.2,2025-11-05
+ORD1261,34,Female,Bengaluru,Books,236.91,3,2.6,2025-02-05
+ORD1262,35,Male,Delhi,Clothing,4257.37,3,3.2,2025-03-28
+ORD1263,18,Female,Mumbai,Clothing,561.17,4,2.8,2025-06-08
+ORD1264,43,Male,Hyderabad,Sports,2460.71,5,3.6,2025-02-24
+ORD1265,42,Female,Bengaluru,Sports,2872.8,3,3.5,2025-07-27
+ORD1266,58,Female,Chennai,Beauty,816.03,4,3.8,2025-01-04
+ORD1267,39,Male,Mumbai,Home & Kitchen,4041.16,4,3.2,2025-02-11
+ORD1268,38,Male,Ahmedabad,Home & Kitchen,9015.23,4,2.6,2025-01-18
+ORD1269,20,Female,Delhi,Beauty,206.53,1,4.0,2025-04-18
+ORD1270,26,Male,Ahmedabad,Beauty,3334.62,5,3.4,2025-03-06
+ORD1271,32,Female,Pune,Clothing,4325.78,1,4.1,2025-12-26
+ORD1272,34,Female,Hyderabad,Electronics,18926.95,3,2.8,2025-04-09
+ORD1273,33,Female,Bengaluru,Electronics,8103.84,4,2.5,2025-01-17
+ORD1274,34,Female,Pune,Sports,4926.47,3,3.1,2025-05-03
+ORD1275,51,Female,Chennai,Home & Kitchen,1788.2,2,3.6,2025-09-30
+ORD1276,23,Female,Mumbai,Home & Kitchen,4633.06,5,3.5,2025-02-08
+ORD1277,32,Female,Chennai,Home & Kitchen,11517.78,1,4.5,2025-01-27
+ORD1278,25,Female,Ahmedabad,Books,1991.38,2,3.4,2025-11-06
+ORD1279,31,Female,Delhi,Electronics,38719.19,5,3.8,2025-08-04
+ORD1280,47,Male,Hyderabad,Electronics,15892.59,4,4.0,2025-05-05
+ORD1281,20,Male,Mumbai,Clothing,3532.03,1,2.6,2025-10-03
+ORD1282,32,Female,Ahmedabad,Home & Kitchen,8582.71,4,3.8,2025-11-04
+ORD1283,19,Female,Kolkata,Books,836.9,5,3.4,2025-05-11
+ORD1284,59,Male,Kolkata,Home & Kitchen,7834.31,1,3.6,2025-07-24
+ORD1285,49,Male,Ahmedabad,Home & Kitchen,524.44,3,2.8,2025-01-04
+ORD1286,28,Male,Hyderabad,Sports,1909.74,3,4.5,2025-04-22
+ORD1287,26,Male,Mumbai,Electronics,26491.87,1,4.9,2025-08-05
+ORD1288,22,Male,Hyderabad,Beauty,780.44,2,2.6,2025-03-13
+ORD1289,38,Male,Hyderabad,Beauty,788.74,1,4.0,2025-12-27
+ORD1290,50,Female,Kolkata,Home & Kitchen,10101.13,1,4.4,2025-12-20
+ORD1291,43,Female,Ahmedabad,Books,1979.35,3,3.2,2025-04-04
+ORD1292,55,Female,Bengaluru,Clothing,2913.06,3,4.5,2025-05-25
+ORD1293,32,Female,Pune,Sports,6760.84,2,4.1,2025-03-10
+ORD1294,29,Male,Chennai,Clothing,4954.51,2,4.8,2025-07-03
+ORD1295,38,Male,Hyderabad,Beauty,695.14,1,5.0,2025-02-15
+ORD1296,26,Male,Ahmedabad,Beauty,1875.75,4,2.6,2025-05-23
+ORD1297,59,Female,Kolkata,Sports,3322.81,2,3.6,2025-07-22
+ORD1298,25,Female,Chennai,Home & Kitchen,1328.57,5,3.9,2025-08-11
+ORD1299,38,Female,Pune,Clothing,3850.05,3,2.9,2025-08-06
+ORD1300,40,Male,Delhi,Electronics,21972.06,5,3.3,2025-03-22
+ORD1301,20,Female,Kolkata,Home & Kitchen,5844.19,4,5.0,2025-10-16
+ORD1302,38,Female,Delhi,Books,386.28,2,2.5,2025-09-09
+ORD1303,37,Male,Ahmedabad,Electronics,9455.87,4,3.6,2025-10-02
+ORD1304,29,Male,Hyderabad,Sports,7284.7,2,4.6,2025-06-20
+ORD1305,23,Male,Bengaluru,Beauty,321.9,1,3.3,2025-11-21
+ORD1306,19,Female,Ahmedabad,Electronics,12026.19,2,3.7,2025-05-22
+ORD1307,18,Female,Mumbai,Clothing,1672.68,2,4.9,2025-10-21
+ORD1308,38,Female,Mumbai,Beauty,2037.26,1,3.7,2025-03-16
+ORD1309,21,Female,Kolkata,Clothing,3056.29,1,2.8,2025-04-01
+ORD1310,59,Male,Bengaluru,Electronics,24917.85,5,2.6,2025-07-11
+ORD1311,28,Female,Chennai,Beauty,473.84,3,4.9,2025-07-22
+ORD1312,46,Female,Mumbai,Books,562.97,3,3.2,2025-09-29
+ORD1313,46,Male,Bengaluru,Electronics,42257.63,5,3.8,2025-04-19
+ORD1314,39,Female,Ahmedabad,Clothing,3296.67,2,2.7,2025-11-14
+ORD1315,55,Female,Bengaluru,Clothing,3351.0,3,3.6,2025-05-01
+ORD1316,22,Female,Hyderabad,Beauty,2730.28,5,4.8,2025-07-14
+ORD1317,28,Female,Pune,Books,1549.52,4,3.8,2025-12-06
+ORD1318,28,Female,Kolkata,Books,210.41,2,4.9,2025-07-16
+ORD1319,23,Male,Bengaluru,Sports,3122.88,2,3.1,2025-09-06
+ORD1320,30,Male,,Books,1125.1,1,3.8,2025-11-27
+ORD1321,31,Female,Chennai,Clothing,1890.75,1,4.6,2025-12-21
+ORD1322,50,Female,Kolkata,Electronics,42301.7,1,3.6,2025-07-01
+ORD1323,30,Female,Bengaluru,Beauty,2007.9,4,3.2,2025-06-01
+ORD1324,55,Male,Ahmedabad,Sports,6218.43,4,4.6,2025-03-13
+ORD1325,51,Male,Chennai,Sports,6860.52,3,3.5,2025-07-15
+ORD1326,56,Male,Kolkata,Clothing,2672.52,4,3.8,2025-12-01
+ORD1327,22,Female,Mumbai,Clothing,4574.9,1,4.9,2025-06-27
+ORD1328,60,Female,Ahmedabad,Electronics,29562.64,2,3.0,2025-05-07
+ORD1329,44,Female,Pune,Electronics,42588.58,2,3.3,2025-02-09
+ORD1330,60,Female,Bengaluru,Beauty,1461.27,5,2.6,2025-05-22
+ORD1331,33,Female,Ahmedabad,Beauty,2070.45,4,3.5,2025-03-28
+ORD1332,58,Male,Kolkata,Home & Kitchen,6564.37,5,3.0,2025-12-22
+ORD1333,43,Female,Mumbai,Clothing,793.4,2,4.2,2025-07-12
+ORD1334,21,Male,Chennai,Books,857.25,5,3.0,2025-02-19
+ORD1335,35,Male,Delhi,Home & Kitchen,11041.12,1,4.2,2025-01-25
+ORD1336,23,Male,Chennai,Books,1298.58,2,3.2,2025-11-06
+ORD1337,58,Female,Ahmedabad,Sports,1666.8,3,,2025-12-06
+ORD1338,31,Male,Ahmedabad,Clothing,1892.62,1,3.4,2025-10-05
+ORD1339,27,Female,Bengaluru,Clothing,1200.53,5,4.3,2025-02-15
+ORD1340,41,Female,Ahmedabad,Sports,491.14,5,3.7,2025-02-05
+ORD1341,36,Female,Delhi,Beauty,3720.72,3,3.4,2025-03-14
+ORD1342,22,Female,,Clothing,2406.57,2,4.6,2025-10-01
+ORD1343,53,Male,Kolkata,Beauty,1334.01,1,3.9,2025-10-06
+ORD1344,54,Male,Delhi,Beauty,2454.14,4,3.0,2025-11-01
+ORD1345,49,Male,Delhi,Sports,356.32,3,4.8,2025-02-05
+ORD1346,44,Female,Delhi,Clothing,1606.7,4,3.4,2025-02-25
+ORD1347,35,Female,Kolkata,Sports,5713.36,4,2.6,2025-11-24
+ORD1348,41,Male,Delhi,Sports,5180.03,1,3.7,2025-12-05
+ORD1349,40,Female,Mumbai,Clothing,4914.49,1,2.8,2025-09-22
+ORD1350,25,Male,Mumbai,Electronics,31207.71,4,3.1,2025-02-08
+ORD1351,21,Male,Bengaluru,Beauty,1988.4,1,4.4,2025-01-25
+ORD1352,28,Male,Delhi,Electronics,38190.91,5,2.8,2025-01-21
+ORD1353,37,Male,Hyderabad,Clothing,4545.64,1,4.5,2025-09-09
+ORD1354,24,Female,Hyderabad,Home & Kitchen,8760.07,4,4.8,2025-11-04
+ORD1355,22,Female,Pune,Sports,7716.73,5,4.0,2025-08-18
+ORD1356,54,Female,Hyderabad,Sports,6321.44,3,4.3,2025-04-06
+ORD1357,34,Female,Chennai,Electronics,43406.67,1,,2025-10-03
+ORD1358,43,Female,Kolkata,Sports,1178.6,5,5.0,2025-01-22
+ORD1359,40,Male,Pune,Electronics,36754.47,1,3.4,2025-10-29
+ORD1360,49,Female,Delhi,Books,936.17,3,2.9,2025-11-21
+ORD1361,49,Male,Bengaluru,Sports,4558.9,5,3.8,2025-09-19
+ORD1362,30,Male,Ahmedabad,Sports,5336.59,4,3.8,2025-11-17
+ORD1363,54,Male,Kolkata,Clothing,4858.13,1,2.9,2025-08-02
+ORD1364,33,Female,Chennai,Sports,7881.25,5,4.0,2025-06-20
+ORD1365,53,Male,Hyderabad,Electronics,14767.3,1,2.5,2025-04-28
+ORD1366,35,Female,Hyderabad,Beauty,2974.95,4,4.8,2025-12-02
+ORD1367,22,Female,Mumbai,Home & Kitchen,9099.81,4,3.2,2025-09-11
+ORD1368,50,Female,Bengaluru,Clothing,1928.52,2,2.6,2025-03-11
+ORD1369,19,Female,Kolkata,Electronics,6631.55,3,2.8,2025-12-15
+ORD1370,51,Female,Bengaluru,Books,177.8,1,3.1,2025-01-22
+ORD1371,19,Female,Mumbai,Home & Kitchen,9417.18,5,3.2,2025-08-02
+ORD1372,26,Male,Ahmedabad,Beauty,2035.34,2,2.6,2025-03-11
+ORD1373,43,Female,Kolkata,Home & Kitchen,11832.27,2,3.2,2025-08-30
+ORD1374,58,Female,Bengaluru,Home & Kitchen,5793.69,3,3.0,2025-05-31
+ORD1375,35,Male,Delhi,Sports,7829.96,4,3.4,2025-06-09
+ORD1376,23,Male,Chennai,Electronics,20873.01,3,3.5,2025-09-02
+ORD1377,28,Male,Pune,Books,1608.0,3,3.3,2025-10-03
+ORD1378,56,Female,Ahmedabad,Books,261.16,3,3.3,2025-05-19
+ORD1379,49,Male,Kolkata,Home & Kitchen,6843.36,5,2.7,2025-12-30
+ORD1380,22,Male,Ahmedabad,Clothing,4069.68,2,2.6,2025-07-01
+ORD1381,34,Female,Hyderabad,Electronics,46272.73,5,3.0,2025-02-28
+ORD1382,29,Female,Bengaluru,Sports,6633.89,4,,2025-01-03
+ORD1383,25,Male,Chennai,Sports,584.67,5,5.0,2025-03-15
+ORD1384,54,Female,Hyderabad,Clothing,2051.7,5,4.8,2025-09-09
+ORD1385,44,Female,Mumbai,Electronics,2910.57,4,3.8,2025-07-16
+ORD1386,25,Male,Bengaluru,Electronics,5909.47,2,3.8,2025-05-03
+ORD1387,45,Male,Ahmedabad,Electronics,33927.63,4,3.3,2025-06-25
+ORD1388,35,Male,,Books,1455.19,4,4.4,2025-11-02
+ORD1389,20,Male,Bengaluru,Sports,6257.65,2,4.4,2025-07-28
+ORD1390,37,Male,Bengaluru,Electronics,43340.1,4,4.6,2025-01-22
+ORD1391,25,Female,Bengaluru,Books,1504.92,2,4.7,2025-01-18
+ORD1392,28,Female,Chennai,Clothing,4064.1,3,3.6,2025-06-25
+ORD1393,55,Male,Mumbai,Home & Kitchen,967.98,4,4.4,2025-05-28
+ORD1394,48,Female,Ahmedabad,Beauty,1052.96,1,4.5,2025-11-06
+ORD1395,23,Female,Mumbai,Books,1281.61,2,3.3,2025-08-01
+ORD1396,54,Male,Chennai,Sports,6907.56,4,4.8,2025-10-03
+ORD1397,42,Male,Pune,Electronics,722.76,3,2.7,2025-08-02
+ORD1398,55,Female,Pune,Clothing,2718.76,5,5.0,2025-05-06
+ORD1399,50,Female,Kolkata,Clothing,3483.25,1,4.4,2025-08-28
+ORD1400,32,Male,Bengaluru,Clothing,439.15,4,2.7,2025-08-15
+ORD1401,40,Female,Chennai,Sports,3390.44,5,4.1,2025-09-20
+ORD1402,40,Male,Kolkata,Books,1801.71,5,2.6,2025-03-10
+ORD1403,48,Male,Kolkata,Clothing,3456.58,1,4.4,2025-08-22
+ORD1404,28,Male,Chennai,Sports,2129.97,5,4.5,2025-04-14
+ORD1405,32,Female,Pune,Home & Kitchen,10292.26,2,4.0,2025-10-15
+ORD1406,28,Male,Kolkata,Beauty,1489.92,2,4.6,2025-10-18
+ORD1407,30,Female,Chennai,Home & Kitchen,10298.8,2,2.7,2025-08-16
+ORD1408,24,Male,Ahmedabad,Electronics,15297.71,4,3.2,2025-12-11
+ORD1409,19,Female,Bengaluru,Sports,4845.47,4,3.5,2025-07-15
+ORD1410,58,Female,Mumbai,Electronics,20148.53,3,2.6,2025-01-10
+ORD1411,21,Male,Hyderabad,Clothing,1591.68,1,3.6,2025-08-09
+ORD1412,56,Female,Hyderabad,Clothing,4466.82,5,3.2,2025-10-11
+ORD1413,18,Male,Delhi,Clothing,1181.69,2,,2025-02-06
+ORD1414,51,Male,Bengaluru,Electronics,4698.17,1,3.6,2025-02-08
+ORD1415,32,Female,Delhi,Electronics,17425.38,3,4.7,2025-04-10
+ORD1416,40,Female,Delhi,Books,1463.51,3,3.2,2025-11-04
+ORD1417,30,Male,Chennai,Sports,6517.22,4,4.7,2025-07-11
+ORD1418,39,Female,Ahmedabad,Electronics,49937.8,5,3.6,2025-12-22
+ORD1419,37,Female,Kolkata,Clothing,1692.9,1,3.3,2025-11-14
+ORD1420,40,Female,Delhi,Beauty,1720.58,2,3.8,2025-07-21
+ORD1421,34,Female,Mumbai,Sports,1353.52,3,3.5,2025-09-05
+ORD1422,41,Male,Kolkata,Books,1192.26,4,3.1,2025-05-01
+ORD1423,53,Female,Hyderabad,Books,1995.4,4,,2025-02-02
+ORD1424,36,Male,Chennai,Beauty,2848.39,2,2.9,2025-05-26
+ORD1425,33,Female,Delhi,Home & Kitchen,7304.47,4,3.4,2025-08-04
+ORD1426,23,Male,Bengaluru,Clothing,2144.13,5,3.9,2025-03-08
+ORD1427,33,Female,Chennai,Sports,7347.8,3,3.5,2025-03-22
+ORD1428,23,Female,Mumbai,Books,1044.14,5,4.6,2025-01-06
+ORD1429,25,Male,Bengaluru,Electronics,7151.16,4,3.1,2025-09-25
+ORD1430,58,Female,Pune,Books,794.22,2,4.9,2025-11-24
+ORD1431,21,Female,Bengaluru,Electronics,3824.75,2,4.5,2025-10-29
+ORD1432,38,Male,Pune,Books,483.76,4,4.9,2025-05-19
+ORD1433,53,Female,Bengaluru,Books,133.57,2,4.6,2025-08-05
+ORD1434,58,Female,Delhi,Electronics,22937.36,2,2.9,2025-12-16
+ORD1435,24,Female,Kolkata,Home & Kitchen,7760.67,2,3.8,2025-08-04
+ORD1436,25,Male,Bengaluru,Electronics,17492.98,4,2.9,2025-04-18
+ORD1437,34,Male,Kolkata,Beauty,1768.47,2,4.5,2025-05-04
+ORD1438,41,Male,Pune,Sports,7685.91,4,4.0,2025-09-22
+ORD1439,59,Male,,Electronics,37722.17,5,3.2,2025-06-12
+ORD1440,26,Female,Bengaluru,Home & Kitchen,6673.94,5,4.8,2025-11-01
+ORD1441,25,Female,Pune,Sports,2490.96,5,2.8,2025-11-11
+ORD1442,28,Female,Ahmedabad,Clothing,4515.88,1,3.9,2025-01-14
+ORD1443,55,Female,Kolkata,Electronics,12137.31,3,4.3,2025-09-21
+ORD1444,19,Female,Bengaluru,Home & Kitchen,4173.98,2,2.6,2025-05-15
+ORD1445,34,Male,Kolkata,Beauty,3649.9,5,4.0,2025-07-09
+ORD1446,23,Male,Hyderabad,Beauty,2188.74,4,4.5,2025-04-07
+ORD1447,24,Male,Chennai,Clothing,3788.89,2,2.7,2025-05-15
+ORD1448,57,Male,Delhi,Sports,4848.73,3,3.8,2025-05-01
+ORD1449,18,Male,Chennai,Beauty,2665.74,4,3.1,2025-01-19
+ORD1450,31,Female,Chennai,Clothing,1707.1,3,4.2,2025-10-12
+ORD1451,57,Male,Hyderabad,Sports,2158.56,3,2.8,2025-02-22
+ORD1452,44,Male,Chennai,Sports,2783.19,1,4.8,2025-05-17
+ORD1453,21,Female,Ahmedabad,Home & Kitchen,2203.12,3,4.7,2025-03-12
+ORD1454,37,Female,Delhi,Electronics,43778.56,2,3.0,2025-02-28
+ORD1455,59,Male,Mumbai,Beauty,1240.5,5,3.3,2025-05-16
+ORD1456,35,Female,Ahmedabad,Beauty,2311.73,5,4.0,2025-12-01
+ORD1457,40,Male,Hyderabad,Electronics,39702.73,4,4.3,2025-12-10
+ORD1458,40,Male,Delhi,Beauty,3167.72,1,3.6,2025-05-19
+ORD1459,46,Female,Chennai,Sports,3675.57,5,2.9,2025-07-03
+ORD1460,26,Female,Delhi,Electronics,24074.74,2,2.8,2025-12-25
+ORD1461,54,Female,Ahmedabad,Books,1989.93,3,5.0,2025-03-27
+ORD1462,60,Female,Delhi,Electronics,33892.58,5,3.6,2025-12-10
+ORD1463,24,Female,Ahmedabad,Books,1647.81,5,4.7,2025-02-08
+ORD1464,53,Male,Hyderabad,Home & Kitchen,10869.63,1,3.7,2025-03-24
+ORD1465,53,Female,Pune,Electronics,39485.7,2,4.8,2025-05-04
+ORD1466,49,Female,Chennai,Sports,1725.88,4,2.7,2025-01-14
+ORD1467,33,Female,Bengaluru,Electronics,28327.45,3,2.8,2025-10-24
+ORD1468,38,Male,Bengaluru,Beauty,542.29,2,4.8,2025-11-08
+ORD1469,54,Female,Pune,Clothing,3368.73,3,4.9,2025-05-20
+ORD1470,24,Female,Pune,Sports,7656.19,5,3.3,2025-11-01
+ORD1471,53,Male,Chennai,Books,1074.19,2,,2025-10-09
+ORD1472,57,Female,Hyderabad,Books,922.65,4,3.6,2025-10-19
+ORD1473,47,Female,Chennai,Home & Kitchen,815.78,4,3.5,2025-10-20
+ORD1474,32,Female,Ahmedabad,Home & Kitchen,11533.38,5,3.0,2025-07-28
+ORD1475,42,Female,Hyderabad,Beauty,546.56,2,4.7,2025-02-10
+ORD1476,20,Female,Delhi,Books,178.05,2,3.1,2025-12-03
+ORD1477,58,Male,Delhi,Sports,2194.71,3,4.3,2025-08-10
+ORD1478,32,Female,Ahmedabad,Electronics,3743.76,3,2.7,2025-11-25
+ORD1479,20,Female,Mumbai,Beauty,1902.2,3,2.6,2025-12-16
+ORD1480,52,Female,Delhi,Electronics,26046.35,4,4.1,2025-03-10
+ORD1481,46,Male,Pune,Clothing,1769.08,4,3.3,2025-05-27
+ORD1482,44,Male,Hyderabad,Books,196.82,2,4.1,2025-03-12
+ORD1483,20,Female,Kolkata,Clothing,824.52,4,2.7,2025-01-19
+ORD1484,50,Female,Kolkata,Books,830.56,2,4.9,2025-12-18
+ORD1485,45,Female,Pune,Home & Kitchen,1102.13,3,4.4,2025-12-03
+ORD1486,52,Female,Pune,Clothing,3581.49,1,4.7,2025-12-06
+ORD1487,53,Female,Pune,Home & Kitchen,2801.44,2,2.8,2025-11-18
+ORD1488,27,Female,Kolkata,Beauty,1312.98,5,3.3,2025-08-25
+ORD1489,27,Male,Ahmedabad,Books,848.84,3,3.4,2025-07-10
+ORD1490,57,Female,Delhi,Beauty,1753.95,4,3.8,2025-12-27
+ORD1491,40,Female,Delhi,Sports,312.79,1,3.2,2025-07-21
+ORD1492,36,Female,Pune,Sports,1162.94,4,2.7,2025-08-22
+ORD1493,30,Male,Bengaluru,Books,1739.25,2,3.4,2025-03-19
+ORD1494,45,Male,Kolkata,Beauty,154.75,4,3.1,2025-09-29
+ORD1495,50,Female,Kolkata,Clothing,2688.39,5,3.5,2025-10-26
+ORD1496,18,Female,Pune,Home & Kitchen,6078.22,3,3.0,2025-09-04
+ORD1497,41,Male,Mumbai,Electronics,16988.16,1,3.2,2025-07-01
+ORD1498,60,Male,Mumbai,Home & Kitchen,5403.39,3,4.1,2025-03-14
+ORD1499,30,Female,Delhi,Sports,6310.47,1,3.5,2025-01-13
+ORD1500,30,Male,Pune,Home & Kitchen,10157.96,3,3.4,2025-08-17
